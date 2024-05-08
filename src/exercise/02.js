@@ -16,7 +16,7 @@ function Calcul() {
   // 📑 https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Function/name
 
   // 🐶 Modifie la chaine de caractère ci-dessous pour la rendre dynamique
-  return <div>L'opération somme de 5 et 10 donne 15</div>
+  return <div>L'opération somme de 5 et 10 donne 15</div> 
 }
 
 function App() {
